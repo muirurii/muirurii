@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter Ngugi
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on javscript projects to improve my skills
+- 💞️ I’m looking to collaborate on javascript projects to improve my skills
 - 📫 Reach me on twitter @dronethem
 
 <!---

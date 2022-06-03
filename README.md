@@ -9,7 +9,13 @@ I'm a fellow who is always yearning to learn,practice and gain new ideas as they
 I'm open for freelancing and internship as I widen my knowledge on website development.
 I also would like to collaborate in projects in order to gain experience in teamwork and also connect, share and gain knowledge from other developers.
 
-Skills:  HTML / CSS / JS  / ReactJs / NodeJs / Express Js 
+## Skills and experience
+ - HTML 
+ - CSS 
+ - JavaScript  
+ - ReactJs 
+ - NodeJs 
+ - Express Js 
 
 - 🔭 I’m currently working on Node, Express 
 - 🌱 I’m currently learning  Mongo DB 

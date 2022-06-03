@@ -1,10 +1,26 @@
-- 👋 Hi there
--  I’m Peter Ngugi a software developer from Kenya 
-- 👀 I’m interested in web development and JavaScript
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 Reach me on twitter @dronethem
-
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=muirurii)](https://github.com/muirurii/github-readme-stats)
+
+### Hi there 👋, my name is Peter Ngugi
+#### I am a software developer
+![I am a software developer](https://avatars.githubusercontent.com/u/86372952?v=4)
+
+I'm a tech lover with a passion in the world of software development.
+I'm a fellow who is always yearning to learn,practice and gain new ideas as they come my way.
+I'm open for freelancing and internship as I widen my knowledge on website development.
+I also would like to collaborate in projects in order to gain experience in teamwork and also connect, share and gain knowledge from other developers.
+
+Skills:  HTML / CSS / JS  / ReactJs / NodeJs / Express Js 
+
+- 🔭 I’m currently working on Node, Express 
+- 🌱 I’m currently learning  Mongo DB 
+- 👯 I’m looking to collaborate on Web development projects 
+- 💬 Ask me about JavaScript 
+- 📫 How to reach me: pnkanuna@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/peterngugi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dronethem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://peterngugi.netlify.app/)  
+
+
 
 <!---
 muirurii/muirurii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

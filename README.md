@@ -1,7 +1,7 @@
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=muirurii)](https://github.com/muirurii/github-readme-stats)
 
 ### Hi there 👋, my name is Peter Ngugi
-#### I am a software developer
+#### I am a fullstack web developer (MERN)
 ![I am a software developer](https://avatars.githubusercontent.com/u/86372952?v=4)
 
 I'm a tech lover with a passion in the world of software development.
@@ -12,15 +12,16 @@ I also would like to collaborate in projects in order to gain experience in team
 ## Skills and experience
  - HTML 
  - CSS 
+ - TailwindCSS
  - JavaScript  
  - ReactJs 
  - NodeJs 
  - Express Js 
-
-- 🔭 I’m currently working on Node, Express 
-- 🌱 I’m currently learning  Mongo DB 
+ - MongoDB
+ 
+- 🔭 I’m currently working on fullstack web apps
 - 👯 I’m looking to collaborate on Web development projects 
-- 💬 Ask me about JavaScript 
+- 💬 Ask me about JavaScript and web development
 - 📫 How to reach me: pnkanuna@gmail.com 
 
 

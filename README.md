@@ -13,7 +13,8 @@ I also would like to collaborate in projects in order to gain experience in team
  - HTML 
  - CSS 
  - TailwindCSS
- - JavaScript  
+ - JavaScript
+ - Typescript
  - ReactJs 
  - NodeJs 
  - Express Js 
